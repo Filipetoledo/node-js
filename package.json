@@ -1,22 +1,5 @@
 {
-  "name": "nodejs",
-  "version": "1.0.0",
-  "description": "Meu Primeiro aplicativo web com nodejs",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/Filipetoledo/node-js.git"
-  },
-  "author": "Filipe de Toledo de Borba",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/Filipetoledo/node-js/issues"
-  },
-  "homepage": "https://github.com/Filipetoledo/node-js#readme",
-  "devDependencies": {
-    "nodemon": "^2.0.22"
+  "dependencies": {
+    "nodemailer": "^6.9.1"
   }
 }
